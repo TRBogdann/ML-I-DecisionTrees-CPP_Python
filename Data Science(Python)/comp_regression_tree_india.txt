@@ -1,0 +1,15 @@
+
+Model 1:
+Accuracy: 61.1429
+The model presents signs of overfitting(61.1429,82.1248)
+87 26
+26 36
+
+Model 2:
+Model accuracy score with criterion gini index: 0.7031
+Train score 0.8993
+Confusion matrix
+92 31
+26 43
+
+Python>C++

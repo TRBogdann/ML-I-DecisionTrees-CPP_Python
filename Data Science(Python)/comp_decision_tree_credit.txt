@@ -1,0 +1,22 @@
+
+Model 1:
+
+Model has an acurracy of 62.5532
+The model s performance is fair, but it s not good enough. Consider tuning the model or using another model
+Your model presents signs of overfitting(62.5532,72.549)
+
+Confusion matrix:
+Clasess: bad good
+12 73
+15 135
+
+Model 2:
+
+Model accuracy score with criterion gini index: 0.7640
+Train score 0.8147
+Confusion matrix
+
+ 37  35
+ 24 154
+
+ Python>C++

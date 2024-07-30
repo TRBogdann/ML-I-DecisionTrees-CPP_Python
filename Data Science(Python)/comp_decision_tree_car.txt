@@ -1,0 +1,26 @@
+
+Model 1:
+Test Acurracy:
+98.0247
+Train Accuracy:
+99.4709
+Confussion_Matrix:
+Clasess: good acc vgood unacc
+17 2 1 0
+1 78 1 2
+0 0 13 0
+0 1 0 289
+
+Model 2:
+Test_Acuraccy:
+87.27
+Train_Accuracy:
+93.36
+Confussion matrix:
+Clasess: acc,vgood,unacc,good
+76   5  13   9
+6   5   1   3
+9   0 285   0
+8   1   0  11
+
+C++>Python

@@ -1,0 +1,18 @@
+Model 1:
+Model has an acurracy of 96.854
+Your model doesn t present signs of overfitting(train accuracy<=test accuracy)
+
+Confusion matrix:
+Clasess: 1 0
+1302 785
+0 22865
+
+Model 2:
+
+Model accuracy score with criterion gini index: 0.9712
+Train score 0.9723
+Confusion matrix:
+1449 701
+18 22832
+
+Python=C++
