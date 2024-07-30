@@ -3,7 +3,7 @@
 This repository covers the next topics:<br />
 1.Decision Tree Classfier<br />
 2.Decision Tree Regressor<br />
-3.Random Forest (Beggining)<br />
+3.Random Forest (Beginning)<br />
 
 I compared my c++ models with the respective python solution to check wheter my solutions are correct or not.<br />
 The model had pretty close performances.While the C++ had better performances in some cases they also presented more signs of overfitting.<br />
